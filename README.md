@@ -1,2 +1,2 @@
-# templatized-implementation-of-linked-list
-C++ templatized implementation of linked list
+# templatized-implementation-of-doubly-linked-list
+C++ templatized implementation of doubly linked list
